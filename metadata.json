@@ -1,0 +1,6 @@
+{
+  "name": "AnnaSetu - Food Surplus & Trust Bridge",
+  "description": "Connecting surplus food providers with verified NGOs to serve orphanages, shelters, and communities with verified proof of distribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
